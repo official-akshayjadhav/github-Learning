@@ -1,2 +1,2 @@
 # github-Learning
-documents to learn github...
+github learning resources
