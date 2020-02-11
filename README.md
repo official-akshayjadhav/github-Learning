@@ -4,6 +4,7 @@
 
 Sr. No. | Title | Link | Type | Status
 ------- | ----- | ---- | ---- | -------
+0 | how to use github | [click here](https://youtu.be/Loav1kbA640) | `video` | :heavy_check_mark:
 1 | intro to Github | [click here](https://youtu.be/BCQHnlnPusY) | `video` | :heavy_check_mark:
 2 | git init & git add | [click here](https://www.youtube.com/watch?v=9p2d-CuVlgc) | `video` | :heavy_check_mark:
 3 | cloning repo & push/pull | [click here](https://www.youtube.com/watch?v=yXT1ElMEkW8) | `video` | :o:
