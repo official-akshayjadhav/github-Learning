@@ -8,7 +8,7 @@ Sr. No. | Title | Link | Type | Status
 1 | intro to Github | [click here](https://youtu.be/BCQHnlnPusY) | `video` | :heavy_check_mark:
 2 | git init & git add | [click here](https://www.youtube.com/watch?v=9p2d-CuVlgc) | `video` | :heavy_check_mark:
 3 | cloning repo & push/pull | [click here](https://www.youtube.com/watch?v=yXT1ElMEkW8) | `video` | :o:
-4 | Github branching | [click here](https://www.youtube.com/watch?v=oPpnCh7InLY) | `video` | ::heavy_check_mark:
+4 | Github branching | [click here](https://www.youtube.com/watch?v=oPpnCh7InLY) | `video` | :heavy_check_mark:
 5 | fork & pull request | [click here](https://www.youtube.com/watch?v=_NrSWLQsDL4) | `video` | :o:
 6 | github issues | [click here](https://www.youtube.com/watch?v=WMykv2ZMyEQ) | `video` | :heavy_check_mark:
 
